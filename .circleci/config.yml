@@ -22,6 +22,13 @@ jobs:
           command: |
             pytest
 
+      # Run code analysis
+      - run:
+          name: Run code analysis
+          command: |
+            ruff check .
+            ruff format .
+
 workflows:
   version: 2
   build_and_test:

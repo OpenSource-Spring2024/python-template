@@ -1,7 +1,6 @@
 # test_google.py
 
-def test_main(self):
-    print("Hello World")
+def test_main():
     assert 2 + 2 == 4
 
 if __name__ == '__main__':

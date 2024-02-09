@@ -1,8 +1,8 @@
 # test_google.py
 
-import pytest
+import unittest
 
-class Test1(pytest.TestCase):
+class Test1(unittest.TestCase):
 
     def test_standard_date(self):
         print("Hello World")
@@ -10,4 +10,4 @@ class Test1(pytest.TestCase):
         assert 2 + 2 == 4
 
 if __name__ == '__main__':
-    pytest.main()
+    unittest.main()

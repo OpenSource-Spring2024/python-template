@@ -22,12 +22,18 @@ jobs:
           command: |
             pytest
 
-      # Run code analysis
+      # Run ruff
       - run:
-          name: Run code analysis
+          name: Run ruff
           command: |
             ruff check .
             ruff format .
+            
+      #Run mypy
+      - run:
+         name: Run mypy
+         command: |
+           mypy .
 
 workflows:
   version: 2

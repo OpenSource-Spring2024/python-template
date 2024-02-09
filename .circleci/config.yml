@@ -20,7 +20,7 @@ jobs:
       - run:
           name: Run tests
           command: |
-            python -m unittest tests/test_1.py  # Adjust this command according to your testing framework
+            pytest
 
 workflows:
   version: 2

@@ -10,12 +10,12 @@
 ---
 ### Features :
 * Programming language - Python
-* Toolchain / runtime environment - Python
+* Toolchain / runtime environment - Python 3.11
 * Testing framework is selected - pytest
 * Continuous integration solution - CircleCI
 * Static analysis solution - mypy
 * Code formatting solution - Ruff
-* Package manager - pip - Python Dependency Management
+* Package manager - Python Dependency Management
 * License - MIT
 ---
 ### Objectives Satisfied :

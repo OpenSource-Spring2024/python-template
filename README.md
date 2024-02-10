@@ -50,7 +50,7 @@
 :white_check_mark: A comprehensive README.md file <br>
 :white_check_mark: An appropriate .gitignore [.gitignore](https://github.com/OpenSource-Spring2024/python-template/blob/master/.gitignore)<br>
 :white_check_mark: An appropriate license [MIT License](https://github.com/OpenSource-Spring2024/python-template/blob/master/LICENSE)<br>
-:white_check_mark: Created two components [backend](https://github.com/OpenSource-Spring2024/python-template/tree/master/src/backend) and [hw1](https://github.com/OpenSource-Spring2024/python-template/tree/master/src/hw1) that interact with each other.<be>
+:white_check_mark: Created two components [backend](https://github.com/OpenSource-Spring2024/python-template/tree/master/src/backend) and [hw1](https://github.com/OpenSource-Spring2024/python-template/tree/master/src/hw1) that interact with each other.<br>
 :white_check_mark: Created an issue and pull request template.<br>
 
 

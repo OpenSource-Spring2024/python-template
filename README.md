@@ -13,8 +13,8 @@
 * Toolchain / runtime environment - Python
 * Testing framework is selected - pytest
 * Continuous integration solution - CircleCI
-* Static analysis solution - flake8
-* Code formatting solution - VS Code
+* Static analysis solution - mypy
+* Code formatting solution - Ruff
 * Package manager - pip - Python Dependency Management
 * License - MIT
 ---
